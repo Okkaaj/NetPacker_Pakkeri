@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\bin\Debug\dotNET Packer.exe
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\bin\Debug\dotNET Packer.pdb
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET_Packer.Form1.resources
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET_Packer.Properties.Resources.resources
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET Packer.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET Packer.exe
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET Packer.pdb
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Debug\dotNET Packer.csprojResolveAssemblyReference.cache

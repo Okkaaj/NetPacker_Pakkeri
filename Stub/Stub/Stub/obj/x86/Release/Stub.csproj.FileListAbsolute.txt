@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\Stub\Stub\Stub\bin\x86\Release\Stub.exe
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\Stub\Stub\Stub\obj\x86\Release\Stub.exe

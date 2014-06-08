@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\bin\Release\dotNET Packer.exe
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\bin\Release\dotNET Packer.pdb
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Release\dotNET_Packer.Form1.resources
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Release\dotNET_Packer.Properties.Resources.resources
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Release\dotNET Packer.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Release\dotNET Packer.exe
+C:\Users\Admin\Desktop\GitHub\C#\.NET Packer\dotNET Packer\dotNET Packer\obj\Release\dotNET Packer.pdb
